@@ -31,35 +31,6 @@ A protocol and infrastructure layer for agent identity, discovery, and capabilit
 
 ---
 
-## Selected Projects
-
-### Shopkeep GPT  
-Autonomous AI store manager with structured tool orchestration and hardware integration.  
-Stack: GPT-4o orchestration, Python services, React frontend, embedded device integration.
-
-### FEMA DAPA  
-AI-assisted disaster damage assessment and structured form completion system.  
-Stack: Vision models, translation, TTS, PDF overlays, full-stack deployment.
-
-### Legacy Code Modernizer  
-COBOL to Python transformation pipeline with automated pull request generation.  
-Stack: Static analysis, LLM-based code transformation, review automation.
-
----
-
-## Technical Stack
-
-Languages  
-Python · C++ · Java
-
-Frameworks  
-PyTorch · Transformers · FastAPI · Flask · React
-
-Infrastructure  
-Docker · Linux · Git
-
----
-
 ## Research Interests
 
 - Training data influence estimation  
@@ -68,14 +39,6 @@ Docker · Linux · Git
 - World models and embodied intelligence  
 - Agent protocol and identity systems  
 - AI governance at scale  
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyyang&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyang&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
