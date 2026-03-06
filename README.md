@@ -1,7 +1,6 @@
 # Joy Yang
 
-Computer Science + Government @ Georgetown University  
-Visiting Student @ Oxford (VGG)  
+Computer Science + Government @ Oxford (VGG), Georgetown
 AI · Robotics · Agentic Systems
 
 ---
