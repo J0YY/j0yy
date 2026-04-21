@@ -1,7 +1,7 @@
 # Joy Yang
 
 Computer Science + Government @ Oxford (VGG), Georgetown
-AI · Robotics · Agentic Systems
+AI · Robotics · Agentic Systems · AI Safety (recent interest)
 
 ---
 
